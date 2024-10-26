@@ -1,1 +1,3 @@
-# NoSQL_firebase
+# firebase
+
+A new Flutter project.
